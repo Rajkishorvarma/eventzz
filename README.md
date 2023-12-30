@@ -1,6 +1,6 @@
 ## Eventzz
 
-Discover seamless event planning with [Your Website Name]. From corporate conferences to weddings, find venues, catering, and entertainment tailored to your needs. Connect with trusted vendors for stress-free management. Create unforgettable experiences effortlessly with our user-friendly interface. Join satisfied clients who trust us for their event needs.
+Discover seamless event planning with EVENTZZ. From corporate conferences to weddings, find venues, catering, and entertainment tailored to your needs. Connect with trusted vendors for stress-free management. Create unforgettable experiences effortlessly with our user-friendly interface. Join satisfied clients who trust us for their event needs.
 
 ## Demo
 - Live
