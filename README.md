@@ -1,9 +1,10 @@
-## Glozzome
-This is a business promotional website of a company. It's a mulitpage website with minimum 5-7 section in every single page. The site is fully responsive and designed with HTML, CSS and Bootstrap. 
+## Eventzz
+
+Discover seamless event planning with EVENTZZ. From corporate conferences to weddings, find venues, catering, and entertainment tailored to your needs. Connect with trusted vendors for stress-free management. Create unforgettable experiences effortlessly with our user-friendly interface. Join satisfied clients who trust us for their event needs.
 
 ## Demo
 - Live
-    - [Glozzome](https://mrhrifat.github.io/glozzome)
+    - [Eventzz](https://eventzz.netlify.app)
 
 ## How To Contribute
 - Fork the repository.
@@ -14,5 +15,3 @@ This is a business promotional website of a company. It's a mulitpage website wi
 
 **Note:** If you want to do a major changes than first create an Issue.
 
-## License
-This project is licensed under [GPL-3.0](https://github.com/mrhrifat/glozzome/blob/master/LICENSE.md).
