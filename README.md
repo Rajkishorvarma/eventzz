@@ -4,7 +4,7 @@ Discover seamless event planning with EVENTZZ. From corporate conferences to wed
 
 ## Demo
 - Live
-    - eventzz.netlify.app
+    - [Eventzz](https://eventzz.netlify.app)
 
 ## How To Contribute
 - Fork the repository.
