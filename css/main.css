@@ -162,18 +162,7 @@ body{
 #services-faq .card{
 	cursor: pointer;
 }
-#blog{
-	background:url('../img/video.jpg');
-	background-attachment: fixed;
-	background-size: cover;
-	background-repeat: no-repeat;
-	min-height: 300px;
-	position: relative;
-}
-#blog-post img{
-	height: 200px;
-	width: 100%;
-}
+
 #contact{
 	background:url('../img/gallery7.jpg');
 	background-attachment: fixed;
